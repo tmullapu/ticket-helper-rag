@@ -1,0 +1,5 @@
+Previous tickets with similar issues (Incidents)
+INC001: User could not log in to App XYZ. Cause: expired password. Fix: reset password.
+INC002: App XYZ very slow in the morning. Cause: Server 1 high memory. Fix: restarted Server 1.
+INC003: Citrix session froze. Cause: old Citrix client. Fix: updated the Citrix Workspace app.
+INC004: User sees "Access Denied" in HR Portal. Cause: missing role. Fix: added Employee role.

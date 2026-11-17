@@ -1,0 +1,5 @@
+How to add new users in the HR Portal app
+1. Log in as an admin and open Admin > User Management.
+2. Click "Add User" and fill in name, email, and department.
+3. Assign a role: Employee, Manager, or Admin.
+4. The new user gets a welcome email with a temporary password.

@@ -1,0 +1,5 @@
+How to give access to an application
+1. Raise an access request ticket with the user's manager as approver.
+2. After manager approval, the app owner adds the user to the correct role group.
+3. Access takes up to 30 minutes to apply.
+4. Ask the user to log out and log in again to see the new access.

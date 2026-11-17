@@ -1,0 +1,5 @@
+VPN not connecting
+1. Check the internet connection first.
+2. Restart the VPN client and try again.
+3. If it says "authentication failed", reset the password and try again.
+4. If it still fails, reinstall the VPN client and contact the network team.

@@ -1,0 +1,5 @@
+What happens when Server 1 is down in App XYZ
+1. App XYZ automatically switches to Server 2 (failover). Users may see a short delay.
+2. Check the monitoring dashboard to confirm Server 1 is down.
+3. Raise a P2 incident and inform the infrastructure team.
+4. If Server 2 is also slow, tell users to expect 15 to 20 minutes of downtime.

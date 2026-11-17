@@ -1,0 +1,5 @@
+Knowledge articles in the system
+Knowledge articles are stored in the ServiceNow Knowledge Base.
+Search by keyword or category, such as Access, Network, or Applications.
+Each article has an owner and a review date. Articles older than 12 months need review.
+If no article matches a ticket, the engineer should write a new one after solving it.

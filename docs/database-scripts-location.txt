@@ -1,0 +1,5 @@
+Where the database scripts are stored
+All database scripts are in the team Git repository called "db-scripts".
+Folders: /migrations for schema changes, /reports for report queries, /maintenance for cleanup jobs.
+Production scripts must be approved by the DBA before running.
+Old scripts are archived in the /archive folder.

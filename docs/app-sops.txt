@@ -1,0 +1,5 @@
+Standard Operating Procedures (SOPs) for the apps
+SOP 1: Every incident must be logged in ServiceNow with priority and category.
+SOP 2: P1 incidents must be escalated to the on-call manager within 15 minutes.
+SOP 3: Before restarting any production server, get change approval.
+SOP 4: After the fix, update the ticket with the root cause and close it with user confirmation.
